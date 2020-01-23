@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Build a RESTful JSON API With Rails 5
+Scotch.io
+https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
 
-Things you may want to cover:
+* Ruby version 2.4.0
 
-* Ruby version
+* Rails version 5.0.7.2
 
-* System dependencies
+* Ruby gemset todos-api
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...

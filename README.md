@@ -1,4 +1,4 @@
-# READMEE
+# README
 
 Build a RESTful JSON API With Rails 5
 Scotch.io

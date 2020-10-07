@@ -1,7 +1,5 @@
 # READMEE
 
-Updated Readme
-
 Build a RESTful JSON API With Rails 5
 Scotch.io
 https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one
